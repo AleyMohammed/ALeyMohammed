@@ -96,23 +96,6 @@
 </details>
 
 
-<details>
-<summary>What can I do for you?</summary>
-<table style="border: none">
-  <tbody><tr>
-  <td width="50%" valign="top">
-<h2 id="lets-work-on-your-project-together">Let’s Work on Your Project Together!</h2>
-<p>If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:guerrandw@gmail.com">contact me by email</a>, I won’t bite, I promise.</p>
-  </td>
-  <td width="50%" valign="top">
-<h2 id="its-not-perfect-isnt-it">It’s not perfect, isn’t it?</h2>
-<p><strong><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></strong></p>
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
-  </td>
-  </tr>
-</tbody></table>
-</details>
 </details>
 <p><img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball"></p>
 
